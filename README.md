@@ -1,4 +1,5 @@
 [linkedin]: https://linkedin.com/in/rodolfoaugustomartins
+[email]: mailto:rodolfoaugusto@hotmail.com.br
 
 [<img align="left" alt="Rodolfo Augusto | LinkedIn" width="100%" src="https://i.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif" />][linkedin]
 
@@ -10,15 +11,15 @@
 
 ## I'm an explorer and developer.
 
-- 🔭 I just launched my first course: !
-- 🌱 
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- 🧾 Fullstack duck-services. Can do everything, but no.
+- 💡 (soon?)
+- 📈 2020 Goals - start good open sources projects
+- 🧙‍ Facts - Mages are better than warriors
 
 ### Connect with me:
 
 [<img align="left" alt="Rodolfo Augusto | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Rodolfo Augusto | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][email]
 
 <br />
 
