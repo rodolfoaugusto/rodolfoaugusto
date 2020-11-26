@@ -39,8 +39,17 @@
    ### Back-end
    [<img align="left" alt="NodeJS" height="26px" src="https://cdn.iconscout.com/icon/free/png-256/node-js-3-1174937.png" />][linkedin]
    [<img align="left" alt="PHP" width="26px" src="https://cdn.iconscout.com/icon/free/png-64/php-2752101-2284918.png" />][linkedin]
-   [<img align="left" alt="PHP" width="26px" src="https://cdn.iconscout.com/icon/free/png-64/php-2752101-2284918.png" />][linkedin]
    
+<br />
+
+---
+
+   ### Mobile
+   
+  [<img align="left" alt="Java" width="26px" src="https://cdn.iconscout.com/icon/free/png-64/java-22-225997.png" />][linkedin]
+  [<img align="left" alt="ReactNative" width="26px" src="https://cdn.iconscout.com/icon/free/png-64/react-native-1-555609.png" />][linkedin]
+  [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][linkedin]
+
 <br />
 
 ---
@@ -57,8 +66,6 @@
   [<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][linkedin]
   [<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][linkedin]
 [<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][linkedin]
-
-   ### Web-Services
 
 <br />
 
