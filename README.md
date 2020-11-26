@@ -45,10 +45,9 @@
 ---
 
    ### Mobile
-   
-  [<img align="left" alt="Java" width="26px" src="https://cdn.iconscout.com/icon/free/png-64/java-22-225997.png" />][linkedin]
-  [<img align="left" alt="ReactNative" width="26px" src="https://cdn.iconscout.com/icon/free/png-64/react-native-1-555609.png" />][linkedin]
-  [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][linkedin]
+   [<img align="left" alt="Java" width="26px" src="https://cdn.iconscout.com/icon/free/png-64/java-22-225997.png" />][linkedin]
+   [<img align="left" alt="ReactNative" width="26px" src="https://cdn.iconscout.com/icon/free/png-64/react-native-1-555609.png" />][linkedin]
+   [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][linkedin]
 
 <br />
 
@@ -82,7 +81,6 @@
 
    ### Automatic Tests
    [<img align="left" alt="Postman" width="26px" src="https://user-images.githubusercontent.com/2676579/34940598-17cc20f0-f9be-11e7-8c6d-f0190d502d64.png" />][linkedin]
-   postman
    
 <br />
 
