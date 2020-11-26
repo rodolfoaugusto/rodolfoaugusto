@@ -39,13 +39,17 @@
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][linkedin]
 
 <br />
+
 ---
+
    ### Infrastructure
    [<img align="left" alt="AWS" width="26px" src="https://cdn.iconscout.com/icon/free/png-64/amazon-web-services-1869031-1583155.png" />][linkedin]
    [<img align="left" alt="GCloud" width="26px" src="https://cdn.iconscout.com/icon/free/png-64/google-cloud-2038785-1721675.png" />][linkedin]
 
 <br />
+
 ---
+
  ### Databases
    
    ### Web-Services
