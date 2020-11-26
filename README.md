@@ -79,7 +79,7 @@
 
 ---
 
-   ### Automatic Tests
+   ### Automated Tests
    [<img align="left" alt="Postman" width="26px" src="https://user-images.githubusercontent.com/2676579/34940598-17cc20f0-f9be-11e7-8c6d-f0190d502d64.png" />][linkedin]
    
 <br />
