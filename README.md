@@ -37,7 +37,7 @@
 ---
 
    ### Back-end
-   [<img align="left" alt="NodeJS" width="54px" src="https://cdn.iconscout.com/icon/free/png-256/node-js-3-1174937.png" />][linkedin]
+   [<img align="left" alt="NodeJS" height="26px" src="https://cdn.iconscout.com/icon/free/png-256/node-js-3-1174937.png" />][linkedin]
    [<img align="left" alt="PHP" width="26px" src="https://cdn.iconscout.com/icon/free/png-64/php-2752101-2284918.png" />][linkedin]
    [<img align="left" alt="PHP" width="26px" src="https://cdn.iconscout.com/icon/free/png-64/php-2752101-2284918.png" />][linkedin]
    
@@ -59,7 +59,11 @@
 [<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][linkedin]
 
    ### Web-Services
-   
+
+<br />
+
+---
+
    ### Tools
    [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][linkedin]
 
