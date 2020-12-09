@@ -11,7 +11,7 @@
 
 ## I'm an explorer and developer.
 
-- 🧾 Fullstack duck-services. Can do everything, but no.
+- 🧾 Fullstack duck-services.
 - 💡 (soon?)
 - 📈 2020 Goals - start some good open sources projects
 - 🧙‍ Facts - Mages are better than warriors
