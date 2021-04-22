@@ -13,7 +13,7 @@
 
 - 🧾 Fullstack duck-services.
 - 💡 (soon?)
-- 📈 2020 Goals - start some good open sources projects
+- 📈 2021 Goals - start some good open sources projects
 - 🧙‍ Facts - Mages are better than warriors
 
 ### Connect with me:
