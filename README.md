@@ -7,7 +7,7 @@
 
 ---
 
-### Hi there, I'm rodi
+### Hi there,
 
 ## I'm an explorer and developer.
 
