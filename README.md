@@ -82,10 +82,3 @@
    [<img align="left" alt="Ubuntu" width="26px" src="https://cdn.iconscout.com/icon/free/png-64/ubuntu-16-1175076.png" />][linkedin]
 
 <br />
-
----
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=rodolfoaugusto&show_icons=true&hide_border=true" />
-</details>
