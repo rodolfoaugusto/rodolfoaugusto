@@ -7,8 +7,6 @@
 
 ---
 
-### Hi there,
-
 ## I'm an explorer and developer.
 
 - 🧾 A truly fullstack
