@@ -9,9 +9,7 @@
 
 ## I'm an explorer and developer.
 
-- 🧾 A truly fullstack
-- 💡 (soon?)
-- 📈 2021 Goals - start some good open sources projects
+- 🧾 A fullstack
 - 🧙‍ Facts - Mages are better than warriors
 
 ### Connect with me:
