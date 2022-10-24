@@ -1,5 +1,5 @@
 [linkedin]: https://linkedin.com/in/rodolfoaugustomartins
-[email]: mailto:rodolfoaugusto@hotmail.com.br
+[email]: mailto:rodolfoaugustomo@gmail.com
 
 [<img align="left" alt="Rodolfo Augusto | LinkedIn" width="100%" src="https://i.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif" />][linkedin]
 
