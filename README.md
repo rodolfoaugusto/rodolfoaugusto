@@ -32,7 +32,6 @@
 
    ### Back-end
    [<img align="left" alt="NodeJS" height="26px" src="https://cdn.iconscout.com/icon/free/png-256/node-js-3-1174937.png" />][linkedin]
-   [<img align="left" alt="PHP" width="26px" src="https://cdn.iconscout.com/icon/free/png-64/php-2752101-2284918.png" />][linkedin]
    
 <br />
 
