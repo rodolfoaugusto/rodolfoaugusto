@@ -66,7 +66,6 @@
 
    ### Tools
    [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][linkedin]
-   [<img align="left" alt="Sublime Text" width="26px" src="https://cdn.iconscout.com/icon/free/png-64/sublime-439588.png" />][linkedin]
    [<img align="left" alt="Postman" width="26px" src="https://user-images.githubusercontent.com/2676579/34940598-17cc20f0-f9be-11e7-8c6d-f0190d502d64.png" />][linkedin]
    
 <br />
