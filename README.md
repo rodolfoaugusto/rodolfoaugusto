@@ -11,6 +11,7 @@
 
 - 🧾 A fullstack
 - 🧙‍ Facts - Mages are better than warriors
+- 🌌 Reverse engineering
 
 ### Connect with me:
 
