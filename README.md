@@ -7,7 +7,7 @@
 
 ---
 
-## I'm an explorer and developer.
+## I'm an explorer.
 
 - 🧾 A fullstack
 - 🧙‍ Facts - Mages are better than warriors
