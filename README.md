@@ -12,6 +12,7 @@
 - 🧾 A fullstack
 - 🧙‍ Facts - Mages are better than warriors
 - 🌌 Reverse engineering
+- 🪼 Deep Learning model trainer
 
 ### Connect with me:
 
