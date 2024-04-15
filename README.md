@@ -10,9 +10,9 @@
 ## I'm an explorer.
 
 - 🧾 A fullstack
-- 🧙‍ Facts - Mages are better than warriors
 - 🌌 Reverse engineering
 - 🪼 Deep Learning model trainer
+- 🧙‍ Facts - Mages are better than warriors
 
 ### Connect with me:
 
