@@ -9,7 +9,7 @@
 
 ## I'm an explorer.
 
-- 🧾 A fullstack (backend specialist)
+- 🧾 A fullstack (backend and infrastructure specialist)
 - 🌌 Reverse engineering
 - 🪼 Deep Learning model trainer
 - 🧙‍ Facts - Mages are better than warriors
