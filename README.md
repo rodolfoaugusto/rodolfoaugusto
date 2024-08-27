@@ -18,7 +18,3 @@
 
 [<img align="left" alt="Rodolfo Augusto | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Rodolfo Augusto | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][email]
-
-<br />
-
-![image](https://github.com/user-attachments/assets/5a7a0114-66a7-4ff6-b3cf-52b73f6b0920)
