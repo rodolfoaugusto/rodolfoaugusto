@@ -14,6 +14,8 @@
 - 🪼 Deep Learning model trainer
 - 🧙‍ Facts - Mages are better than warriors
 
+<a href="https://exuras.com">Exuras creator and developer.</a>
+
 ### Connect with me:
 
 [<img align="left" alt="Rodolfo Augusto | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
