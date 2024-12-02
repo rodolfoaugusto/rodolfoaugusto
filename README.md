@@ -9,12 +9,9 @@
 
 ## I'm an explorer.
 
-- 🧾 A fullstack (backend and infrastructure specialist)
+- 🧾 A fullstack (frontend, backend and infrastructure specialist)
 - 🌌 Reverse engineering
 - 🪼 Deep Learning model trainer
-- 🧙‍ Facts - Mages are better than warriors
-
-<a href="https://exuras.com">Exuras creator and developer.</a>
 
 ### Connect with me:
 
